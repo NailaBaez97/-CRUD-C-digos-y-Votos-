@@ -140,5 +140,5 @@ Actualiza el nombre y el enlace de un tema.
 
 ## Autor
 
-- **Tu Nombre**  
+- **Naila Baez**  
   Desarrollador del CRUD de Votos.
